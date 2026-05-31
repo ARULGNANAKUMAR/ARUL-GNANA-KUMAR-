@@ -1,4 +1,3 @@
-```markdown
 <!---
 🔥 Professional GitHub Profile README for Arul Gnanakumar R
 Optimized for internships, research, and AI/Data Science roles
@@ -162,4 +161,3 @@ Optimized for internships, research, and AI/Data Science roles
   **Open for internships | Research collaborations | Hackathons | Open source**
   
 </div>
-```
